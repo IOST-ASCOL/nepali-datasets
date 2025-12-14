@@ -164,7 +164,7 @@ If any content belongs to you, please submit a PR or contact us to request remov
 ### Weather
 
 - **Pokhara Weather Data (2009-2023)** - https://www.kaggle.com/datasets/gauravneupane/pokhara-weather-data-from-2009-to-2023
-- **Nepal Multi-District Weather Dataset (2020-2025)** - https://www.kaggle.com/datasets/dipeshthapa1/nepal-multi-district-weather-dataset-2020-2025 - Daily weather observations from all 77 districts of Nepal with 120K+ records. Features 19 columns including temperature, humidity, pressure, precipitation, and wind speed measurements. Preprocessed dataset with engineered target variable (next-day temperature) for machine learning. No missing values. Source: NASA POWER API.
+- **Nepal Multi-District Weather Dataset (2020-2025)** - https://www.kaggle.com/datasets/dipeshthapa1/nepal-multi-district-weather-dataset-2020-2025
 
 ### Hydrology & Environment
 
