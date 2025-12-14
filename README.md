@@ -164,6 +164,7 @@ If any content belongs to you, please submit a PR or contact us to request remov
 ### Weather
 
 - **Pokhara Weather Data (2009-2023)** - https://www.kaggle.com/datasets/gauravneupane/pokhara-weather-data-from-2009-to-2023
+- **Nepal Weather Temperature Prediction Dataset** - https://github.com/DipeshJungThapa/weatherwave-project-data-visualization - Comprehensive weather dataset with 120,931 observations across Nepali districts, containing 15 meteorological features (temperature, humidity, pressure, wind speed, precipitation) for next-day temperature forecasting using Random Forest ML model (99.5% accuracy).
 
 ### Hydrology & Environment
 
