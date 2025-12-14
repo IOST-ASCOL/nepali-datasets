@@ -239,7 +239,7 @@ Found a Nepali dataset? Help us grow this collection!
 1. Star the repository
 2. Fork the repository
 3. Add dataset to `README.md` in the right category
-4. Format: `- **Name** - [Link](url) - Description`
+4. Format: `- **Name** - [Link](url)`
 5. Submit a PR
 
 **Requirements:**
