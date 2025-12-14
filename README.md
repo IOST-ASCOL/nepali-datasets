@@ -164,6 +164,7 @@ If any content belongs to you, please submit a PR or contact us to request remov
 ### Weather
 
 - **Pokhara Weather Data (2009-2023)** - https://www.kaggle.com/datasets/gauravneupane/pokhara-weather-data-from-2009-to-2023
+- **Nepal Multi-District Weather Dataset (2020-2025)** - https://www.kaggle.com/datasets/dipeshthapa1/nepal-multi-district-weather-dataset-2020-2025
 
 ### Hydrology & Environment
 
