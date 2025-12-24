@@ -16,6 +16,7 @@ If any content belongs to you, please submit a PR or contact us to request remov
 - **Nepali geospatial data** - Maps, coordinates, geographic information
 - **Machine learning datasets for Nepal** - Stock prices, weather, disaster data
 - **Nepali language research datasets** - Academic corpora and linguistic resources
+- **Nepali literature dataset** - Poem, Stories, and misc.
 
 ## Text & NLP Datasets
 
@@ -227,6 +228,11 @@ If any content belongs to you, please submit a PR or contact us to request remov
 - **Nepali NLP Progress** - https://github.com/divyamani1/Nepali-NLP-Progress (tracking SOTA)
 - **NLP Progress Nepali** - https://github.com/sebastianruder/NLP-progress/blob/master/nepali/nepali.md
 - **Pre-trained Models** - https://huggingface.co/Suyogyart/nepali-16-newsgroups-classification (DistilBERT)
+
+---
+
+## Nepali literature dataset
+- **Devkota Poem Collection** - https://www.kaggle.com/datasets/abhyudayapokhrel/nepali-devkota-poem-dataset
 
 ---
 
