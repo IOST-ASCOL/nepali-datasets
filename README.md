@@ -252,6 +252,7 @@ This is the **most comprehensive repository of Nepali datasets** available on Gi
 - **Open Data Nepal** - https://opendatanepal.com/
 - **Census Nepal** - https://censusnepal.cbs.gov.np/results
 - **LDC-IL (Indian Language Resources)** - Language resource repository
+- **Census Data Source** - https://censusresults.nsonepal.gov.np/
 
 ---
 
